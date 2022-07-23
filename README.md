@@ -21,3 +21,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ![ilkrepo](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png)
+
+[Patikam](https://app.patika.dev/atoli)
